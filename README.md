@@ -145,4 +145,11 @@ Through this simulation, I learned how to:
 
 ---
 
+## 📜 Certificate
+
+Successfully completed the Deloitte Australia Data Analytics Virtual Job Simulation on Forage.
+
+📄 Certificate available in this repository:
+- Deloitte Certificate of data analytics virtual internship.pdf
+
 ## ⭐ If you found this project useful, feel free to star this repository.
