@@ -1,46 +1,98 @@
-# 📊 Deloitte Australia Data Analytics Job Simulation
+# 📊 Deloitte Australia Data Analytics Virtual Job Simulation
 
-> Interactive Tableau Dashboard built as part of the Deloitte Australia Data Analytics Virtual Job Simulation.
+> **Interactive Tableau Dashboard & Forensic Technology Analysis** completed as part of the **Deloitte Australia Data Analytics Virtual Job Simulation** hosted on **Forage**.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ronika08/deloitte-data-analytics-job-simulation)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ronika08/deloitte-data-analytics-job-simulation)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-success)
+![Forage](https://img.shields.io/badge/Platform-Forage-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
-## 📌 Project Overview
+# 📸 Dashboard Preview
 
-This project was completed as part of the **Deloitte Australia Data Analytics Virtual Job Simulation**.
+## Interactive Tableau Dashboard
 
-The objective was to analyze telemetry data collected from four manufacturing factories using **Tableau** and build an interactive dashboard to answer business-critical questions regarding machine downtime.
+![Dashboard](dashboard.png)
 
 ---
 
-## 🎯 Business Problem
+# 📌 Project Overview
 
-Daikibo collected one month of telemetry data from four factories:
+This repository contains my completed work for the **Deloitte Australia Data Analytics Virtual Job Simulation** offered through **Forage**.
+
+The simulation focused on solving real-world business problems using **Tableau** and **Microsoft Excel**, including:
+
+- Building an interactive business dashboard
+- Analyzing manufacturing telemetry data
+- Identifying operational bottlenecks
+- Investigating employee pay equality
+
+---
+
+# 🎯 Business Scenario
+
+Daikibo Industrials collected telemetry data from four manufacturing factories over one month.
+
+The goal was to analyze machine downtime and help management answer critical business questions.
+
+Factories included:
 
 - 🇯🇵 Daikibo Factory Meiyo (Tokyo, Japan)
 - 🇯🇵 Daikibo Factory Seiko (Osaka, Japan)
 - 🇩🇪 Daikibo Berlin (Germany)
 - 🇨🇳 Daikibo Shenzhen (China)
 
-The analysis focused on answering two questions:
+---
 
-1. Which factory experienced the highest machine downtime?
-2. Which machine type contributed the most to downtime in that factory?
+# 📋 Tasks Completed
+
+## ✅ Task 1 – Data Analytics
+
+### Objective
+
+Build an interactive Tableau dashboard to analyze telemetry data collected from multiple factories.
+
+### Work Performed
+
+- Imported JSON dataset into Tableau
+- Created calculated fields
+- Built interactive dashboards
+- Applied dashboard filters
+- Compared machine downtime across factories
+- Identified the highest downtime location
+
+### Business Questions Answered
+
+✔ Which factory experienced the highest machine downtime?
+
+✔ Which machine type contributed the most downtime?
+
+### Findings
+
+| Analysis | Result |
+|----------|--------|
+| Factory with Highest Downtime | **Daikibo Factory Seiko (Osaka, Japan)** |
+| Machine with Highest Downtime | **Laser Cutter** |
 
 ---
 
-# 🛠️ Technologies Used
+## ✅ Task 2 – Forensic Technology
 
-- Tableau Public
-- JSON Dataset
-- Data Visualization
-- Dashboard Design
-- Calculated Fields
-- Interactive Filters
+### Objective
+
+Investigate employee compensation data to identify potential gender pay inequality.
+
+### Work Performed
+
+- Analyzed Equality Score data in Microsoft Excel
+- Classified equality scores into:
+  - Fair
+  - Unfair
+  - Highly Discriminative
+- Completed the investigation file for submission
 
 ---
 
@@ -50,39 +102,32 @@ The analysis focused on answering two questions:
 - Machine-wise downtime analysis
 - Interactive filtering
 - Business insights
-- Dashboard visualization
+- Comparative visualization
+- Executive dashboard
 
 ---
 
-# 📈 Key Findings
+# 🛠️ Technologies Used
 
-## Factory with Highest Downtime
-
-**Daikibo Factory Seiko (Osaka, Japan)**
-
----
-
-## Machine with Highest Downtime
-
-**Laser Cutter**
+- Tableau Public
+- Microsoft Excel
+- JSON
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Data Analytics
 
 ---
 
-# 📸 Dashboard Preview
+# 📸 Screenshots
 
-## Complete Dashboard
-
-![Dashboard](dashboard.png)
-
----
-
-## Factory Downtime Analysis
+## Factory Downtime
 
 ![Factory Chart](factory-chart.png)
 
 ---
 
-## Machine Downtime Analysis
+## Machine Downtime
 
 ![Machine Chart](machine-chart.png)
 
@@ -94,10 +139,12 @@ The analysis focused on answering two questions:
 deloitte-data-analytics-job-simulation/
 │
 ├── README.md
+├── Deloitte_Australia_Data_Analytics_Certificate.pdf
 ├── daikibo-dashboard.twb
 ├── dashboard.png
 ├── factory-chart.png
-└── machine-chart.png
+├── machine-chart.png
+└── (Task 2 Excel Solution)
 ```
 
 ---
@@ -107,32 +154,46 @@ deloitte-data-analytics-job-simulation/
 - Data Analysis
 - Data Visualization
 - Tableau Dashboard Development
+- Microsoft Excel
 - Business Intelligence
 - Root Cause Analysis
 - Interactive Dashboard Design
 - Calculated Fields
 - Data Interpretation
+- Problem Solving
 
 ---
 
 # 🎓 Learning Outcomes
 
-Through this simulation, I learned how to:
+Through this virtual experience, I learned how to:
 
-- Import JSON datasets into Tableau
+- Analyze manufacturing telemetry data
+- Build interactive Tableau dashboards
 - Create calculated fields
-- Build interactive dashboards
-- Visualize manufacturing telemetry data
-- Derive actionable business insights
-- Present findings through dashboards
+- Apply dashboard filters
+- Generate business insights
+- Interpret operational data
+- Classify equality scores using Excel
+- Present analytical findings effectively
 
 ---
 
-# 📜 Virtual Experience
+# 🏆 Certification
 
-**Program:** Deloitte Australia Data Analytics Virtual Job Simulation
+Successfully completed the **Deloitte Australia Data Analytics Virtual Job Simulation** on **Forage**.
 
-**Platform:** Forage
+📄 **Certificate included in this repository**
+
+---
+
+# 📜 Virtual Experience Details
+
+| Program | Deloitte Australia Data Analytics Virtual Job Simulation |
+|----------|----------------------------------------------------------|
+| Platform | Forage |
+| Category | Data Analytics |
+| Tools | Tableau Public, Microsoft Excel |
 
 ---
 
@@ -140,16 +201,22 @@ Through this simulation, I learned how to:
 
 **Ronika S**
 
-- GitHub: https://github.com/Ronika08
-- LinkedIn: https://www.linkedin.com/in/ronika-s-7647552a2/
+🎓 B.E. Artificial Intelligence & Data Science  
+📍 Mysuru, Karnataka, India
+
+### Connect with Me
+
+- **GitHub:** https://github.com/Ronika08
+- **LinkedIn:** https://www.linkedin.com/in/ronika-s-7647552a2/
 
 ---
 
-## 📜 Certificate
+# 📄 License
 
-Successfully completed the Deloitte Australia Data Analytics Virtual Job Simulation on Forage.
+This project is shared for **educational and portfolio purposes only**.
 
-📄 Certificate available in this repository:
-- Deloitte Certificate of data analytics virtual internship.pdf
+The dataset and business scenario were provided as part of the **Deloitte Australia Data Analytics Virtual Job Simulation** hosted on **Forage**.
 
-## ⭐ If you found this project useful, feel free to star this repository.
+---
+
+⭐ If you found this project useful, consider giving it a **Star**.
